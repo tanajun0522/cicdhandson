@@ -3,7 +3,7 @@ name: !Cidr
 on:
   pull_request:
     branches:
-      -main
+      - main
 
 jobs:
   ci:
